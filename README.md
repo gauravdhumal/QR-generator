@@ -88,12 +88,12 @@ qr-code-generator/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/guaravdhumal/qr-code-generator.git
+git clone https://github.com/gauravdhumal/QR-generator.git
 ```
 
 **2. Navigate into the project directory**
 ```bash
-cd qr-code-generator
+QR-generator
 ```
 
 **3. Launch the application**
@@ -191,14 +191,12 @@ git push origin feature/your-feature-name
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
-
 ---
 
 <div align="center">
 
 **⭐ If this project helped you, please give it a star!**
 
-Made with ❤️ by [guaravdhumal](https://github.com/guaravdhumal)
+Made with ❤️ by [guaravdhumal](https://github.com/gauravdhumal)
 
 </div>
